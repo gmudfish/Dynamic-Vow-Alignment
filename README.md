@@ -1,7 +1,3 @@
-Of course. Here is the document converted to clean, readable Markdown, ready for a GitHub `README.md` file or a GitHub Pages site.
-
-***
-
 # Dynamic Vow Alignment (DVA): A Co-Evolutionary Framework for AI Safety and Attunement
 
 > **Version:** 1.0
