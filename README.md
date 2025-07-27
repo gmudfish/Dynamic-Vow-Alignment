@@ -36,7 +36,7 @@ The Vows are the natural language constitution that governs the Primary AI's beh
 ### 3.2 The Primary AI
 This is the main, user-facing model. It operates according to a stable, versioned set of the Vows, ensuring its behavior is predictable between update cycles.
 
-### 3.3 The Specialized Agents: A Society of Minds 🧠
+### 3.3 The Specialized Agents: A Society of Minds 
 
 1.  **The Reward Synthesizer**
     * **Core Mandate:** To translate vast quantities of noisy, implicit human feedback into clean, explicit principles.
