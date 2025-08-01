@@ -138,4 +138,4 @@ The periodic, batch-driven nature of the alignment cycle creates natural, predic
 As a blueprint for a fully autonomous, self-aligning AI, the DVA framework is an elegant but flawed concept. However, as a blueprint for a **symbiotic governance system**, it is a significant evolution. By formalizing the alignment process into a predictable, evidence-based legislative cycle, DVA provides the necessary architecture to elevate human oversight from simple feedback to informed, wise, and continuous governance. It is a practical path toward ensuring that advanced AI systems remain beneficial partners in the human endeavor.
 
 ---
-This document can be used, modified, and distributed under the MIT License or a similar permissive license.
+I hereby dedicate this work to the public domain under the Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. This means you can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
